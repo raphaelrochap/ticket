@@ -1,0 +1,11 @@
+.login-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 4rem;
+}
+
+#components-form-demo-normal-login .login-form-forgot {
+  float: right;
+}
